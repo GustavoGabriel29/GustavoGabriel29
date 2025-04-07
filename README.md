@@ -61,7 +61,8 @@ Tenho facilidade para trabalhar em equipe, gosto de resolver problemas e estou s
 
 - 📧 Email: [gustavogabriel0129@gmail.com](mailto:gustavogabriel0129@gmail.com)
 - 💼 LinkedIn: *em breve*
-- 📷 Instagram:Gustavo_gbl
+- [📷 Instagram](https://instagram.com/Gustavo_gbl)
+
 - 🌐 Portfólio: *em construção*
 
 
