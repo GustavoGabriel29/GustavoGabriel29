@@ -1,34 +1,39 @@
-
 <h1 align="center">👋 Olá, eu sou o Gustavo Gabriel!</h1>
+
 <p align="center">
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas | 💻 Focado em Desenvolvimento Web | 🚀 Futuro Dev Full Stack
+  🎓 Estudante de ADS | 💻 Dev Web em formação | 🚀 Futuro Full Stack Developer
 </p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1D9BF0&height=100&section=header"/>
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D9BF0&center=true&vCenter=true&width=435&lines=Explorando+o+universo+da+programa%C3%A7%C3%A3o;Criando+projetos+web+do+zero;Sempre+aprendendo+e+evoluindo!"/>
+</p>
 
+---
 
-## 🧑‍💼 Sobre Mim
+## 🧑‍💻 Sobre Mim
 
-Sou um estudante apaixonado por **tecnologia** e **programação**, atualmente focado em construir minha base no **desenvolvimento web**.  
-Estudo **JavaScript**, **HTML5** e **CSS3**, e estou constantemente em busca de aprimorar minhas habilidades técnicas e aprender novas ferramentas.
+Sou um estudante apaixonado por **tecnologia** e **desenvolvimento web**, em constante evolução.  
+Atualmente focado em aprender as bases sólidas da **programação front-end**, com o objetivo de me tornar um **desenvolvedor full stack** no futuro.
 
-Tenho facilidade para trabalhar em equipe, gosto de resolver problemas e estou sempre pronto para encarar novos desafios.
+💡 Tenho facilidade com **trabalho em equipe**, gosto de **resolver problemas** e adoro aprender coisas novas todos os dias.
 
-🔎 **Objetivo:** Iniciar minha carreira na área de TI e crescer como desenvolvedor em projetos inovadores.
+🎯 **Objetivo:** Conquistar minha primeira oportunidade como dev e crescer em projetos reais e desafiadores.
 
+---
 
-## 🚀 Atualmente Estudando
+## 📚 Atualmente Estudando
 
 - 🧠 Lógica de Programação
-- 🖥️ Estruturação com **HTML5**
+- 🧩 Estruturação com **HTML5**
 - 🎨 Estilização com **CSS3**
 - ⚙️ Programação com **JavaScript**
-- 📂 Noções iniciais de Git & GitHub
+- 🗃️ Versionamento com Git & GitHub
 
-
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -36,47 +41,51 @@ Tenho facilidade para trabalhar em equipe, gosto de resolver problemas e estou s
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </div>
 
-| Tecnologia  | Nível      | Status       |
-|-------------|------------|--------------|
-| JavaScript  | 🟡 Básico  | Estudando    |
-| HTML5       | 🟠 Iniciante | Estudando   |
-| CSS3        | 🟠 Iniciante | Estudando   |
-| Git         | ⚪ Em breve | Aprofundando |
-| GitHub      | ⚪ Em breve | Aprofundando |
-| VS Code     | ✅ Confortável | Usando diariamente |
+| 💻 Tecnologia | ⚙️ Nível       | 📈 Status         |
+|---------------|----------------|-------------------|
+| JavaScript    | 🟡 Básico       | Estudando         |
+| HTML5         | 🟠 Iniciante    | Estudando         |
+| CSS3          | 🟠 Iniciante    | Estudando         |
+| Git           | ⚪ Em breve     | Aprofundando      |
+| GitHub        | ⚪ Em breve     | Aprofundando      |
+| VS Code       | ✅ Confortável  | Usando diariamente |
 
+---
 
+## 🧭 Próximos Passos
 
-## 📈 Em Breve...
+- 📌 Estrutura de Dados e Algoritmos
+- ⚛️ Frameworks como **React** ou **Vue**
+- 🗂️ Git avançado + boas práticas
+- 🌍 Portfólio web responsivo
+- 🛠️ Introdução ao back-end e banco de dados
 
-- 🧩 Estrutura de Dados e Algoritmos
-- 🔧 Frameworks como React ou Vue
-- 📦 Versionamento com Git avançado
-- 🌐 Criação de portfólio responsivo
-- ☁️ Introdução a bancos de dados e back-end
+---
 
+## 📫 Onde me encontrar
 
+<div align="center">
+  <a href="mailto:gustavogabriel0129@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-1D9BF0?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/Gustavo_gbl">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/-LinkedIn-em%20breve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div>
 
-## 📫 Contato
+---
 
-- 📧 Email: [gustavogabriel0129@gmail.com](mailto:gustavogabriel0129@gmail.com)
-- 💼 LinkedIn: *em breve*
-- [📷 Instagram](https://instagram.com/Gustavo_gbl)
+## 🎮 Sobre Mim
 
-- 🌐 Portfólio: *em construção*
+- 👨‍🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no UDF - Centro Universitário  
+- 🔎 Curioso nato, amo **resolver desafios de código**  
+- 🎮 Viciado em games, tecnologia e cafés ☕  
+- 🧩 Acredito que programação é sobre criatividade + lógica
 
+---
 
-
-## 💡 Curiosidades Sobre Mim
-
-- 👨‍🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no UDF - Centro Universitário
-- 🧩 Adoro lógica, desafios de código e aprender coisas novas
-- 🎮 Gosto de games e tudo que envolve tecnologia
-- ☕ Café + código = foco total
-
-
-
-## 🗂️ Repositórios em Destaque *(futuramente)*
+## 🗂️ Repositórios em Destaque *(em breve)*
 
 ```bash
 🟢 projeto-javascript-basico/
