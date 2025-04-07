@@ -74,7 +74,7 @@ Atualmente focado em aprender as bases sólidas da **programação front-end**, 
   </a>
   
   <a href="#" title="LinkedIn https://www.linkedin.com/in/gustavogbl/">
-    <img src="https://img.shields.io/badge/-LinkedIn-em%20breve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn em breve"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-em%20breve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/gustavogbl/"/>
   </a>
 
   <a href="https://wa.me/55SEUNUMEROAQUI" target="_blank" rel="noopener noreferrer">
