@@ -73,7 +73,7 @@ Atualmente focado em aprender as bases sólidas da **programação front-end**, 
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   
-  <a href="#" title="LinkedIn (em breve)">
+  <a href="#" title="LinkedIn https://www.linkedin.com/in/gustavogbl/">
     <img src="https://img.shields.io/badge/-LinkedIn-em%20breve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn em breve"/>
   </a>
 
