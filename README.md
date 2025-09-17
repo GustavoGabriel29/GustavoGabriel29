@@ -45,7 +45,7 @@ Atualmente focado em aprender as bases sólidas da **programação front-end**, 
 |---------------|----------------|-------------------|
 | JavaScript    | ✅ Confortável       | Estudando         |
 | HTML5         | ✅ Confortável    | Estudando         |
-| CSS3          | 🟠 Iniciante    | Estudando         |
+| CSS3          | ⚪ Básico    | Estudando         |
 | Git           | ⚪ Básico     | Aprofundando      |
 | GitHub        | ⚪ Básico     | Aprofundando      |
 | VS Code       | ✅ Confortável  | Usando diariamente |
