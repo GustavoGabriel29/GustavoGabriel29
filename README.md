@@ -43,11 +43,11 @@ Atualmente focado em aprender as bases sólidas da **programação front-end**, 
 
 | 💻 Tecnologia | ⚙️ Nível       | 📈 Status         |
 |---------------|----------------|-------------------|
-| JavaScript    | 🟡 Básico       | Estudando         |
-| HTML5         | 🟠 Iniciante    | Estudando         |
+| JavaScript    | ✅ Confortável       | Estudando         |
+| HTML5         | ✅ Confortável    | Estudando         |
 | CSS3          | 🟠 Iniciante    | Estudando         |
-| Git           | ⚪ Em breve     | Aprofundando      |
-| GitHub        | ⚪ Em breve     | Aprofundando      |
+| Git           | ⚪ Básico     | Aprofundando      |
+| GitHub        | ⚪ Básico     | Aprofundando      |
 | VS Code       | ✅ Confortável  | Usando diariamente |
 
 ---
@@ -87,7 +87,7 @@ Atualmente focado em aprender as bases sólidas da **programação front-end**, 
 
 ## 🎮 Sobre Mim
 
-- 👨‍🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no UDF - Centro Universitário  
+- 👨‍🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, formado na UDF - Centro Universitário  
 - 🔎 Curioso nato, amo **resolver desafios de código**  
 - 🎮 Viciado em games, tecnologia e cafés ☕  
 - 🧩 Acredito que programação é sobre criatividade + lógica
